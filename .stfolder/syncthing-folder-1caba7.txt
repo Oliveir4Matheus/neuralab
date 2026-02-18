@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 4v2dk-4gbhi
+created: 2026-01-08T19:52:50-03:00
